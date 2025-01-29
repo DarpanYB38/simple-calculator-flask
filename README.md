@@ -10,13 +10,13 @@ A **Simple Calculator** built using **Object-Oriented Programming (OOP) in Pytho
 
 ## 📸 Screenshots  
 ### 🖥️ Web UI  
-![Calculator Screenshot](screenshots/ui.png)  
+![Calculator Screenshot](Screenshots/ui.png)  
 
 ### 🔍 Example Calculation  
-![Result Screenshot](screenshots/result1.png) 
-![Result Screenshot](screenshots/result2.png)
-![Result Screenshot](screenshots/result3.png)
-![Result Screenshot](screenshots/result4.png)
+![Result Screenshot](Screenshots/result1.png) 
+![Result Screenshot](Screenshots/result2.png)
+![Result Screenshot](Screenshots/result3.png)
+![Result Screenshot](Screenshots/result4.png)
 
 ## 🛠️ Tech Stack  
 - **Python (OOP Concepts)**  
